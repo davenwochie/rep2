@@ -1,0 +1,51 @@
+body{
+   background-image: url(./images/sch1.jpg);
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+    background-size:contain;
+    
+   
+}
+#top{
+    width: 100%;
+    height: 50px;
+    background-color:;
+   }
+
+#first{
+    margin-top: 80px;
+    margin-left: 250px;
+    width:500px;
+    height: 500px;
+    background-color: green;
+    background-image: url(./images/sch2.jpg);
+    background-size: cover;
+}
+#second{
+    margin-top: -520px;
+    margin-left: 750px;
+    width:500px;
+    height: 500px;
+    background-color:rgb(179, 47, 47);
+  
+}
+form{
+    margin-top: 20px;
+    margin-left: 20px;
+    color: aliceblue;
+}
+input{
+    padding:5px;
+    font-size: 15px;
+}
+#sch{
+    font-size: 35px;
+   font-weight: bold;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   color: rgb(224, 179, 121);
+   margin-top: -80px;
+}
+h5{
+    color: white;
+}
